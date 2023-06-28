@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Tran The "kang" Luc</h1>
 <h3 align="center">Journey to Becoming a Data Engineer</h3>
 
